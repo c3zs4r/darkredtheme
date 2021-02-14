@@ -7,7 +7,7 @@ made by David Capello and Ilija Melentijevic, because I like dark grey themes.
 **Screenshot**
 -------------------------------
 
-![enter image description here](https://i.ibb.co/Z6ggY8b/Screenshot.png)
+![enter image description here](https://i.imgur.com/g0LQdpg.png)
 
 **How to Install**
 -------------------------------
